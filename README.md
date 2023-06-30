@@ -14,7 +14,7 @@
 
 ## | Sobre mim |
 
-<img src="./Larissa.jpg" alt="Larissa Lavínia">
+<img src="./Larissa.png" alt="Larissa Lavínia">
 
 Me chamo Larissa Lavínia, tenho 23 anos e sou de Salvador-Ba. 
 
